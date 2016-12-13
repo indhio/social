@@ -28,4 +28,4 @@ This Repository have a few projects that main goal is share few ways how to use 
 
 ---
 
-Copyright © 2016 Indhio Technologies | [vinicius@indhio.com](vinicius@indhio.com)
+Copyright © Indhio Technologies | [vinicius@indhio.com](vinicius@indhio.com)
